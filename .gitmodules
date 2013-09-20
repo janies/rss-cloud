@@ -1,0 +1,9 @@
+[submodule "www"]
+	path = www
+	url = https://github.com/angular/angular-seed.git
+[submodule "dataleach"]
+	path = dataleach
+	url = https://github.com/janies/dataleach.git
+[submodule "d3-cloud"]
+	path = d3-cloud
+	url = https://github.com/jasondavies/d3-cloud.git
