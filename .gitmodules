@@ -1,6 +1,6 @@
 [submodule "www"]
 	path = www
-	url = https://github.com/angular/angular-seed.git
+	url = https://github.com/janies/angular-seed.git
 [submodule "dataleach"]
 	path = dataleach
 	url = https://github.com/janies/dataleach.git
